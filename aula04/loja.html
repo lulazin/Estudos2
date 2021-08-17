@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <title>Loja Teste Leonardo</title>
+        <meta charset="utf-8"/>
+    </head>    
+
+    <body>
+
+        <div id="produtos">
+
+        </div> <!--produtos-->            
+
+        <div id="carrinho">
+
+        </div> <!--carrinho-->
+
+        <script>
+            const itens = [
+                {
+                    id : 0,
+                    nome: 'camiseta',
+                    img: 'semimagem.png',
+                    quantidade: 0
+                },
+                {
+                    id : 1,
+                    nome: 'calça',
+                    img: 'semimagem.png',
+                    quantidade: 0
+                },
+                {
+                    id : 2,
+                    nome: 'bermuda',
+                    img: 'semimagem.png',
+                    quantidade: 0
+                },
+            ]
+
+            inicializaLoja = () => {
+                var containerProdutos = document.getElementById('produtos');
+                itens.map((val)=>{
+                    containerProdutos.innerHTML += `
+                    
+                    <div class="produto-single">
+                        <img src="`+val.img+`""/>
+                        <p>`+val.nome+`</p>
+                        <a key="`+val.id+`" href="#">Adicionar ao carrinho.<a/>
+                    </div>
+                    `;
+                })
+            }
+            inicializaLoja();
+
+            atualizarCarrinho = () => {
+                console.log(itens);
+            }
+
+            var links = document.getElementsByTagName('a');
+            console.log("Leo2")
+
+            for(var i = 0; i < links.length; i++){
+                console.log("Leo")
+                links[i].addEventListener("click",function(){
+                    let key = this.getAttribute('key');
+                    itens[key].quantidade++;
+                    atualizarCarrinho();
+                })            
+            }
+
+        </script>
+
+    </body>
+</html>

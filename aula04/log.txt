@@ -1,0 +1,319 @@
+testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestefunction message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+        console.log('Salvo!')
+    })
+
+}testetestetestetestetesteleoleoleoleoleoleoleoleoleoleoleo123123123123123123123123123123function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+    //fs.appendFile(path.join(__dirname, 'log.txt'),message, function (err) {
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}function message(){
+        fs.appendFile(path.join(__dirname, 'log.txt'),message.toString(), function (err) {
+        if (err) throw err;
+    })
+}
